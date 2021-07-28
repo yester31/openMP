@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openMP_1", "openMP_1\openMP_1.vcxproj", "{747D4CCA-A151-40C0-AE40-F9D779797C8A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opemMP_2", "opemMP_2\opemMP_2.vcxproj", "{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{747D4CCA-A151-40C0-AE40-F9D779797C8A}.Release|x64.Build.0 = Release|x64
 		{747D4CCA-A151-40C0-AE40-F9D779797C8A}.Release|x86.ActiveCfg = Release|Win32
 		{747D4CCA-A151-40C0-AE40-F9D779797C8A}.Release|x86.Build.0 = Release|Win32
+		{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}.Debug|x64.ActiveCfg = Debug|x64
+		{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}.Debug|x64.Build.0 = Debug|x64
+		{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}.Debug|x86.Build.0 = Debug|Win32
+		{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}.Release|x64.ActiveCfg = Release|x64
+		{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}.Release|x64.Build.0 = Release|x64
+		{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}.Release|x86.ActiveCfg = Release|Win32
+		{AA78BE99-3B5A-445F-A4D8-4C3D812B0474}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
