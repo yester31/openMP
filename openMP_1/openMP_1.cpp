@@ -6,7 +6,8 @@
 
 void main(int argc, char*argv[])
 {
-	int thread_count = strtol(argv[1], NULL, 10);
+	//int thread_count = strtol(argv[1], NULL, 10);
+	int thread_count = 10;
 
 	#pragma omp parallel num_threads(thread_count)
 	printf("[Thread %d] Hello OpenMP!\n", omp_get_thread_num());
